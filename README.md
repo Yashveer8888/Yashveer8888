@@ -9,7 +9,7 @@
 - 🔭 Currently working on **MERN & Java Spring Boot Projects**
 - 🌱 Exploring **AI-powered Interview Platforms** & **Blockchain Integrations**
 - 💡 Love solving **DSA problems** and building **scalable full-stack apps**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **yashveer8000@gmail.com**
 - ⚡ Fun fact: I code best with coffee ☕
 
 ---

@@ -1,74 +1,89 @@
-<!-- Profile README for GitHub: Yashveer8888 -->
 
-<h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
-<h3 align="center">A passionate Full Stack Developer | React • Node.js • Java • Spring Boot</h3>
+<div align="center">
 
----
+# 👋 Hey, I'm Yashveer Singh
 
-### 🌟 About Me
-- 🔭 Currently working on **MERN & Java Spring Boot Projects**
-- 🌱 Exploring **AI-powered Interview Platforms** & **Blockchain Integrations**
-- 💡 Love solving **DSA problems** and building **scalable full-stack apps**
-- 📫 Reach me at: **yashveer8000@gmail.com**
-- ⚡ Fun fact: I code best with coffee ☕
+### AI/ML Developer | Full Stack Developer | Problem Solver
 
----
+Building intelligent solutions and turning ideas into real-world applications.
 
-### 🛠️ Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-Yashveer8888-c770f0?style=for-the-badge&logo=github)](https://github.com/Yashveer8888)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Cloud**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+</div>
 
 ---
 
-### 📌 Featured Projects
-- 🚀 [**NewsKalu**](https://github.com/Yashveer8888/NewsKalu) – News website with React + NewsAPI + infinite scroll  
-- 📝 [**BlogKalu**](https://github.com/Yashveer8888/BlogKalu) – Blog platform using MERN stack  
-- 💰 [**Monryttacker**](https://github.com/Yashveer8888/Monryttacker) – Personal finance tracker (MERN)  
-- 🎵 [**Spotify Clone**](https://github.com/Yashveer8888/Spotify-Clone) – Full-stack music app with Firebase + YouTube API  
+## 💫 About Me
+
+- 🎓 Computer Science Engineering graduate
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Building full-stack applications with the MERN stack
+- 🐍 Exploring Python, ML models, and Generative AI
+- 🚀 Focused on learning, building, and improving every day
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🎵 NexPlay
+Explore my NexPlay project and its implementation.
+
+🔗 [View Repository](https://github.com/Yashveer8888/NexPlay)
+
+### 🤖 AI & Machine Learning
+Building and exploring AI-powered applications and machine learning projects.
+
+🔗 [Explore My Repositories](https://github.com/Yashveer8888?tab=repositories)
+
+### 🌐 Full Stack Development
+Developing web applications with React, Node.js, Express, and MongoDB.
+
+🔗 [Browse My Projects](https://github.com/Yashveer8888?tab=repositories)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashveer8888&show_icons=true&theme=midnight-purple&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer8888&layout=compact&theme=midnight-purple&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashveer8888&theme=midnight-purple&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [@Yashveer8888](https://github.com/Yashveer8888)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer8888&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashveer8888&theme=radical" alt="GitHub streak" height="180" />
-</p>
+*“Build. Learn. Improve. Repeat.”*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer8888&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+⭐ Thanks for visiting my profile!
 
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Yashveer8888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐️ From [Yashveer8888](https://github.com/Yashveer8888)
+</div>
